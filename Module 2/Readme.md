@@ -2,7 +2,7 @@
 
 ### Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
 
-Here is your task
+## Here is your task
 
 Julia has asked us to evaluate the performance of a store trial which was performed in stores 77, 86 and 88.<br>
 We have chosen to complete this task in R, however you will also find Python to be a useful tool in this piece of analytics. We have also provided an R solution template if you want some assistance in getting through this Task.<br>
